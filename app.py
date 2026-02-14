@@ -21,7 +21,7 @@
             padding: 20px;
         }
         footer {
-            background: #222;
+            background: #555_Dev;
             color: #ccc;
             text-align: center;
             padding: 10px;
